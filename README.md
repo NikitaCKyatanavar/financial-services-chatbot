@@ -11,7 +11,10 @@ A web-based chatbot that provides answers to financial questions using HuggingFa
 [Live Chatbot Link](https://your-vercel-link.vercel.app)  <!-- Replace with your actual Vercel link -->
 
 ## Screenshots
-![Chatbot Screenshot](C:\Users\nikit\OneDrive\Desktop./screenshots/chatbot.png)  <!-- Replace with actual screenshot file path -->
+![Chatbot Screenshot](## Screenshot
+
+![Chatbot Screenshot](frontend/screenshots/chatbot.png)
+)  <!-- Replace with actual screenshot file path -->
 
 ## Setup & Run Locally
 
