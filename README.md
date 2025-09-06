@@ -7,18 +7,39 @@ A web-based chatbot that provides answers to financial questions using HuggingFa
 - Bot gives instant answers with source references.
 - Beautiful and responsive UI using Next.js and Tailwind CSS.
 
-## Live Demo
-[Live Chatbot Link](https://your-vercel-link.vercel.app)  <!-- Replace with your actual Vercel link -->
 
-## Screenshots
-![Chatbot Screenshot](## Screenshot
 
+
+## 🚀 Live Demo
+🔗 [Click here to use the chatbot](https://financial-services-chatbot.vercel.app)
+
+
+
+## 🖼 Screenshot
 ![Chatbot Screenshot](frontend/screenshots/chatbot.png)
-)  <!-- Replace with actual screenshot file path -->
+  <!-- Replace with actual screenshot file path -->
 
-## Setup & Run Locally
+## 🛠 Tech Stack
+- React + Node.js
+- HuggingFace FinancialBERT
+- Tailwind CSS
+- Vercel (Deployment)
 
-### 1. Clone the repo
+## 📌 How to Run Locally
 ```bash
 git clone https://github.com/NikitaCKyatanavar/financial-services-chatbot.git
-cd financial-services-chatbot
+cd financial-llm-chatbot-complete
+npm install
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
